@@ -42,22 +42,17 @@
 
 - React.js
 - Django
-- Django REST Framework
 - Flutter
-- Bootstrap
 
 ### Database
 
 - MySQL
-- SQLite
 
 ### Tools
 
-- Git
 - GitHub
 - VS Code
 - PyCharm
-- Postman
 
 ---
 
@@ -102,57 +97,15 @@ An e-commerce platform supporting buyers and sellers.
 
 **Tech Stack**
 
-Django • HTML • CSS • JavaScript • SQLite
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PoojaGanesan05&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaGanesan05&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaGanesan05&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 Achievements
-
-🏅 NPTEL Elite Certificate – Human Computer Interaction
-
-🏅 Cognizant Technovers Hackathon Participant
-
-🏅 AI Internship – LiveWire
-
-🏅 Full Stack Development Internship
-
----
-
-## 📚 Currently Exploring
-
-- Spring Boot
-- REST APIs
-- Java Backend Development
-- DSA for Placements
-- Cloud Basics
+Django • HTML • CSS • JavaScript • MySQL
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: *(Add your LinkedIn URL here)*
+💼 LinkedIn: linkedin.com/in/poojaganesan05
 
-📧 Email: *(Add your Email here)*
-
-🌐 Portfolio: *(Add when available)*
+📧 Email: poojaganesan92@gmail.com
 
 ---
 
